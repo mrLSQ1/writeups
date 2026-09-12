@@ -7,7 +7,6 @@
 ## Recon
 nmap -sV 192.168.1.107
 
-PORT     STATE  SERVICE    VERSION
 21/tcp   open   ftp        vsftpd 2.3.4
 
 ## Vulnerability
