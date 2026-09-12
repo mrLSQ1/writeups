@@ -1,6 +1,6 @@
 # Metasploitable 2 — vsftpd 2.3.4
 
-**Платформа:** Metasploitable 2
+**Платформа:** Metasploitable 2         
 **ОС:** Linux
 **Дата:** 2026-09-12
 
