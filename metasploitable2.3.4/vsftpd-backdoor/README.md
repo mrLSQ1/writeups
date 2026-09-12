@@ -30,7 +30,7 @@ PORT     STATE  SERVICE    VERSION
 При входе в Metasplotable 2 - будет отображатся текст.
 
 ## Privesc
-Не нужен,root получен сразу же через backdoor.
+Не нужен, root получен сразу же через backdoor.
 
 ## Flags
 Не содержит флагов, но доступ подтвержден.
